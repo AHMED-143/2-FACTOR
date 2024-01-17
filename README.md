@@ -7,7 +7,7 @@ FREE TOOLS
 
 <h1 align="center"> [AHMED FARHAN]</h1>
 
-<h2 align="center">  FILE & RANDOM CLONING TOOLS </h2>
+<h2 align="center">  AUTO 2 FACTOR APPLYING TOOLS </h2>
 
 
 ## <b>installation</b>
